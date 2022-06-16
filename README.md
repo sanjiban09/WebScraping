@@ -1,2 +1,3 @@
 # WebScraping
-repository depicts how to srap any web data easily
+repository depicts how to scrap any web data easily
+ * This is an  example of web scraping
